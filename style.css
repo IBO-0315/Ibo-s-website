@@ -1,0 +1,12 @@
+header {
+    height: 100px;
+    max-width: 100%;
+    background-color: rgb(80, 127, 214);
+    font-size: 90px;
+}
+
+img {
+    max-width: 40%;
+    max-height: 35%;
+    float: left;
+}
